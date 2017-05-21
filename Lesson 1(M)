@@ -1,0 +1,4 @@
+single threaded, one event loop
+npm init to create app(package.json)
+node start to run app
+npm install to install modules
